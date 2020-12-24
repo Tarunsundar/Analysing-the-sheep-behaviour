@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="cs23820_assignment"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/Tarunsundar/Desktop/TSK/Tarun/C amd c++4/cs23820_assignment_tak17/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-W/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Tarunsundar/Desktop/TSK/Tarun/C amd c++4/cs23820_assignment_tak17/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-W/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Tarunsundar/Desktop/TSK/Tarun/C amd c++4/cs23820_assignment_tak17/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-W/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Tarunsundar/Desktop/TSK/Tarun/C amd c++4/cs23820_assignment_tak17/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-W/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Tarunsundar/Desktop/TSK/Tarun/C amd c++4/cs23820_assignment_tak17/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="cs23820_assignment">
+				<Option output="C:/Users/Tarunsundar/Desktop/TSK/Tarun/C amd c++4/cs23820_assignment_tak17/cmake-build-debug/cs23820_assignment.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Tarunsundar/Desktop/TSK/Tarun/C amd c++4/cs23820_assignment_tak17/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-W/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Tarunsundar/Desktop/TSK/Tarun/C amd c++4/cs23820_assignment_tak17/cmake-build-debug/Makefile&quot;  VERBOSE=1 cs23820_assignment"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-W/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Tarunsundar/Desktop/TSK/Tarun/C amd c++4/cs23820_assignment_tak17/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-W/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Tarunsundar/Desktop/TSK/Tarun/C amd c++4/cs23820_assignment_tak17/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-W/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Tarunsundar/Desktop/TSK/Tarun/C amd c++4/cs23820_assignment_tak17/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="cs23820_assignment/fast">
+				<Option output="C:/Users/Tarunsundar/Desktop/TSK/Tarun/C amd c++4/cs23820_assignment_tak17/cmake-build-debug/cs23820_assignment.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Tarunsundar/Desktop/TSK/Tarun/C amd c++4/cs23820_assignment_tak17/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-W/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Tarunsundar/Desktop/TSK/Tarun/C amd c++4/cs23820_assignment_tak17/cmake-build-debug/Makefile&quot;  VERBOSE=1 cs23820_assignment/fast"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-W/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Tarunsundar/Desktop/TSK/Tarun/C amd c++4/cs23820_assignment_tak17/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-W/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Tarunsundar/Desktop/TSK/Tarun/C amd c++4/cs23820_assignment_tak17/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-W/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Tarunsundar/Desktop/TSK/Tarun/C amd c++4/cs23820_assignment_tak17/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/Tarunsundar/Desktop/TSK/Tarun/C amd c++4/cs23820_assignment_tak17/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-W/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Tarunsundar/Desktop/TSK/Tarun/C amd c++4/cs23820_assignment_tak17/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-W/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Tarunsundar/Desktop/TSK/Tarun/C amd c++4/cs23820_assignment_tak17/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-W/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Tarunsundar/Desktop/TSK/Tarun/C amd c++4/cs23820_assignment_tak17/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-W/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Tarunsundar/Desktop/TSK/Tarun/C amd c++4/cs23820_assignment_tak17/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/Tarunsundar/Desktop/TSK/Tarun/C amd c++4/cs23820_assignment_tak17/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-W/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Tarunsundar/Desktop/TSK/Tarun/C amd c++4/cs23820_assignment_tak17/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-W/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Tarunsundar/Desktop/TSK/Tarun/C amd c++4/cs23820_assignment_tak17/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-W/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Tarunsundar/Desktop/TSK/Tarun/C amd c++4/cs23820_assignment_tak17/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-W/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Tarunsundar/Desktop/TSK/Tarun/C amd c++4/cs23820_assignment_tak17/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/Tarunsundar/Desktop/TSK/Tarun/C amd c++4/cs23820_assignment_tak17/headers/calculator.h">
+			<Option target="cs23820_assignment"/>
+		</Unit>
+		<Unit filename="C:/Users/Tarunsundar/Desktop/TSK/Tarun/C amd c++4/cs23820_assignment_tak17/headers/config.h">
+			<Option target="cs23820_assignment"/>
+		</Unit>
+		<Unit filename="C:/Users/Tarunsundar/Desktop/TSK/Tarun/C amd c++4/cs23820_assignment_tak17/headers/coordinate.h">
+			<Option target="cs23820_assignment"/>
+		</Unit>
+		<Unit filename="C:/Users/Tarunsundar/Desktop/TSK/Tarun/C amd c++4/cs23820_assignment_tak17/headers/movement.h">
+			<Option target="cs23820_assignment"/>
+		</Unit>
+		<Unit filename="C:/Users/Tarunsundar/Desktop/TSK/Tarun/C amd c++4/cs23820_assignment_tak17/headers/parser.h">
+			<Option target="cs23820_assignment"/>
+		</Unit>
+		<Unit filename="C:/Users/Tarunsundar/Desktop/TSK/Tarun/C amd c++4/cs23820_assignment_tak17/sources/calculator.c">
+			<Option target="cs23820_assignment"/>
+		</Unit>
+		<Unit filename="C:/Users/Tarunsundar/Desktop/TSK/Tarun/C amd c++4/cs23820_assignment_tak17/sources/coordinate.c">
+			<Option target="cs23820_assignment"/>
+		</Unit>
+		<Unit filename="C:/Users/Tarunsundar/Desktop/TSK/Tarun/C amd c++4/cs23820_assignment_tak17/sources/main.c">
+			<Option target="cs23820_assignment"/>
+		</Unit>
+		<Unit filename="C:/Users/Tarunsundar/Desktop/TSK/Tarun/C amd c++4/cs23820_assignment_tak17/sources/movement.c">
+			<Option target="cs23820_assignment"/>
+		</Unit>
+		<Unit filename="C:/Users/Tarunsundar/Desktop/TSK/Tarun/C amd c++4/cs23820_assignment_tak17/sources/parser.c">
+			<Option target="cs23820_assignment"/>
+		</Unit>
+		<Unit filename="C:/Users/Tarunsundar/Desktop/TSK/Tarun/C amd c++4/cs23820_assignment_tak17/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Tarunsundar/Desktop/TSK/Tarun/C amd c++4/cs23820_assignment_tak17/headers/calculator.h
+coordinate.h
+C:/Users/Tarunsundar/Desktop/TSK/Tarun/C amd c++4/cs23820_assignment_tak17/headers/coordinate.h
+math.h
+-
+stdlib.h
+-
+stdio.h
+-
+
+C:/Users/Tarunsundar/Desktop/TSK/Tarun/C amd c++4/cs23820_assignment_tak17/headers/config.h
+
+C:/Users/Tarunsundar/Desktop/TSK/Tarun/C amd c++4/cs23820_assignment_tak17/headers/coordinate.h
+stdlib.h
+-
+string.h
+-
+stdio.h
+-
+
+C:/Users/Tarunsundar/Desktop/TSK/Tarun/C amd c++4/cs23820_assignment_tak17/headers/movement.h
+stdlib.h
+-
+string.h
+-
+stdio.h
+-
+config.h
+C:/Users/Tarunsundar/Desktop/TSK/Tarun/C amd c++4/cs23820_assignment_tak17/headers/config.h
+coordinate.h
+C:/Users/Tarunsundar/Desktop/TSK/Tarun/C amd c++4/cs23820_assignment_tak17/headers/coordinate.h
+
+C:/Users/Tarunsundar/Desktop/TSK/Tarun/C amd c++4/cs23820_assignment_tak17/sources/movement.c
+../headers/movement.h
+C:/Users/Tarunsundar/Desktop/TSK/Tarun/C amd c++4/cs23820_assignment_tak17/headers/movement.h
+../headers/calculator.h
+C:/Users/Tarunsundar/Desktop/TSK/Tarun/C amd c++4/cs23820_assignment_tak17/headers/calculator.h
+
